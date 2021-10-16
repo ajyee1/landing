@@ -1,0 +1,9 @@
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.cards img {
+  height: 100px
+}
